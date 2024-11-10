@@ -1,5 +1,5 @@
-# Welcome to GitHub Desktop!
+Cite the articles.
 
-This is your README. READMEs are where you can communicate what your project is and how to use it.
+A. A. Nayan, B. Kijsirikul, Y. Iwahori, “Mediastinal Lymph Node Detection and Segmentation using Deep Learning,” IEEE Access (IEEE, Web of Science, Scopus, Scimago Q1), vol. 10, pp. 89289-89307, 2022, doi: 10.1109/ACCESS.2022.3198996.
 
-Write your name on line 6, save it, and then head back to GitHub Desktop.
+A. A. Nayan, B. Kijsirikul and Y. Iwahori, "Navigating Malignancy: Deep Learning for Mediastinal Lymph Node Classification," IEEE Access, doi: 10.1109/ACCESS.2024.3491414.
