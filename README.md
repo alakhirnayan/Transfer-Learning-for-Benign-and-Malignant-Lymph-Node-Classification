@@ -1,4 +1,3 @@
-Absolutely — here's your revised `README.md` file with the **segmentation publication information removed** as requested, while retaining all other relevant content:
 
 ---
 
